@@ -1,5 +1,5 @@
 # datova_schranka
--stahuje všechny zprávy, doručené a odeslané, z datové schránky do souborů ZFO
+-stahuje všechny zprávy, doručené a odeslané, z datové schránky do souborů ZFO (stahuje pouze ještě nestažené zprávy)
 
 
 -uživatelské jméno a heslo do DS bere z proměnných prostředí ISDS_USERNAME a ISDS_PASSWORD; příklad nastavení na windows:
